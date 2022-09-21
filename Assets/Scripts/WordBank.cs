@@ -8,7 +8,7 @@ public class WordBank : MonoBehaviour
 {
     private List<string> originalWords = new List<string>()
     {
-        "Hacker","Spy","Thief", "Job", "Bob" , "Pupak Very Handsome"
+        "Hacker","Spy","Thief", "Job", "Bob"
     };
 
     private List<string> workingWords = new List<string>();

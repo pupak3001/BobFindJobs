@@ -16,4 +16,5 @@ public class ToNextScene : MonoBehaviour
 	{
 		SceneManager.LoadScene(nextSceneToLoad);
 	}
+	
 }
